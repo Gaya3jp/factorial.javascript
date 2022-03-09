@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>
+"Factorial oa number using javascript"
+</title>
+</head>
+<body style ="text align:center;">
+<h1 style=color:green;">
+
+var num= document.factorial.focus;
+var n =4;
+          
+<Button on click  = "Click on the button to";>
+<Button type on click="Welcome to the world of javascript";>
+    </script> 
+var num= document.factorial.focus;
+var n =4;
+for(i=0;i<=n;i++)
+fact=1;
+(fact=fact*i);
+        
+</script> 
+</body> 
+</html>
